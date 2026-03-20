@@ -10,6 +10,7 @@
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/parth-ghelani22/LeetCode/tree/master/0042-trapping-rain-water) |
+| [0044-wildcard-matching](https://github.com/parth-ghelani22/LeetCode/tree/master/0044-wildcard-matching) |
 | [0053-maximum-subarray](https://github.com/parth-ghelani22/LeetCode/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/parth-ghelani22/LeetCode/tree/master/0070-climbing-stairs) |
 ## Memoization
@@ -33,6 +34,7 @@
 ## String
 |  |
 | ------- |
+| [0044-wildcard-matching](https://github.com/parth-ghelani22/LeetCode/tree/master/0044-wildcard-matching) |
 | [0071-simplify-path](https://github.com/parth-ghelani22/LeetCode/tree/master/0071-simplify-path) |
 ## Stack
 |  |
@@ -67,4 +69,12 @@
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/parth-ghelani22/LeetCode/tree/master/0100-same-tree) |
+## Greedy
+|  |
+| ------- |
+| [0044-wildcard-matching](https://github.com/parth-ghelani22/LeetCode/tree/master/0044-wildcard-matching) |
+## Recursion
+|  |
+| ------- |
+| [0044-wildcard-matching](https://github.com/parth-ghelani22/LeetCode/tree/master/0044-wildcard-matching) |
 <!---LeetCode Topics End-->
