@@ -87,8 +87,13 @@
 |  |
 | ------- |
 | [0044-wildcard-matching](https://github.com/parth-ghelani22/LeetCode/tree/master/0044-wildcard-matching) |
+| [0206-reverse-linked-list](https://github.com/parth-ghelani22/LeetCode/tree/master/0206-reverse-linked-list) |
 ## Union-Find
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/parth-ghelani22/LeetCode/tree/master/0128-longest-consecutive-sequence) |
+## Linked List
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/parth-ghelani22/LeetCode/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
