@@ -26,4 +26,12 @@
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/parth-ghelani22/LeetCode/tree/master/0069-sqrtx) |
+## String
+|  |
+| ------- |
+| [0071-simplify-path](https://github.com/parth-ghelani22/LeetCode/tree/master/0071-simplify-path) |
+## Stack
+|  |
+| ------- |
+| [0071-simplify-path](https://github.com/parth-ghelani22/LeetCode/tree/master/0071-simplify-path) |
 <!---LeetCode Topics End-->
