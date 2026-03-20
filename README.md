@@ -24,10 +24,12 @@
 | [0001-two-sum](https://github.com/parth-ghelani22/LeetCode/tree/master/0001-two-sum) |
 | [0042-trapping-rain-water](https://github.com/parth-ghelani22/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/parth-ghelani22/LeetCode/tree/master/0053-maximum-subarray) |
+| [0128-longest-consecutive-sequence](https://github.com/parth-ghelani22/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/parth-ghelani22/LeetCode/tree/master/0001-two-sum) |
+| [0128-longest-consecutive-sequence](https://github.com/parth-ghelani22/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 ## Binary Search
 |  |
 | ------- |
@@ -85,4 +87,8 @@
 |  |
 | ------- |
 | [0044-wildcard-matching](https://github.com/parth-ghelani22/LeetCode/tree/master/0044-wildcard-matching) |
+## Union-Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/parth-ghelani22/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
