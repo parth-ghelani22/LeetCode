@@ -13,6 +13,7 @@
 | [0044-wildcard-matching](https://github.com/parth-ghelani22/LeetCode/tree/master/0044-wildcard-matching) |
 | [0053-maximum-subarray](https://github.com/parth-ghelani22/LeetCode/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/parth-ghelani22/LeetCode/tree/master/0070-climbing-stairs) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/parth-ghelani22/LeetCode/tree/master/0124-binary-tree-maximum-path-sum) |
 ## Memoization
 |  |
 | ------- |
@@ -60,10 +61,12 @@
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/parth-ghelani22/LeetCode/tree/master/0100-same-tree) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/parth-ghelani22/LeetCode/tree/master/0124-binary-tree-maximum-path-sum) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/parth-ghelani22/LeetCode/tree/master/0100-same-tree) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/parth-ghelani22/LeetCode/tree/master/0124-binary-tree-maximum-path-sum) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -72,6 +75,7 @@
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/parth-ghelani22/LeetCode/tree/master/0100-same-tree) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/parth-ghelani22/LeetCode/tree/master/0124-binary-tree-maximum-path-sum) |
 ## Greedy
 |  |
 | ------- |
