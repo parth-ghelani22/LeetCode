@@ -51,4 +51,20 @@
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/parth-ghelani22/LeetCode/tree/master/0042-trapping-rain-water) |
+## Tree
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/parth-ghelani22/LeetCode/tree/master/0100-same-tree) |
+## Depth-First Search
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/parth-ghelani22/LeetCode/tree/master/0100-same-tree) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/parth-ghelani22/LeetCode/tree/master/0100-same-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/parth-ghelani22/LeetCode/tree/master/0100-same-tree) |
 <!---LeetCode Topics End-->
