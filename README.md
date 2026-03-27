@@ -6,6 +6,7 @@
 | ------- |
 | [0069-sqrtx](https://github.com/parth-ghelani22/LeetCode/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/parth-ghelani22/LeetCode/tree/master/0070-climbing-stairs) |
+| [0089-gray-code](https://github.com/parth-ghelani22/LeetCode/tree/master/0089-gray-code) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -113,10 +114,12 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0089-gray-code](https://github.com/parth-ghelani22/LeetCode/tree/master/0089-gray-code) |
 | [0090-subsets-ii](https://github.com/parth-ghelani22/LeetCode/tree/master/0090-subsets-ii) |
 | [0137-single-number-ii](https://github.com/parth-ghelani22/LeetCode/tree/master/0137-single-number-ii) |
 ## Backtracking
 |  |
 | ------- |
+| [0089-gray-code](https://github.com/parth-ghelani22/LeetCode/tree/master/0089-gray-code) |
 | [0090-subsets-ii](https://github.com/parth-ghelani22/LeetCode/tree/master/0090-subsets-ii) |
 <!---LeetCode Topics End-->
