@@ -31,6 +31,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/parth-ghelani22/LeetCode/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/parth-ghelani22/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0014-longest-common-prefix](https://github.com/parth-ghelani22/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0041-first-missing-positive](https://github.com/parth-ghelani22/LeetCode/tree/master/0041-first-missing-positive) |
 | [0042-trapping-rain-water](https://github.com/parth-ghelani22/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/parth-ghelani22/LeetCode/tree/master/0053-maximum-subarray) |
@@ -57,6 +58,7 @@
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/parth-ghelani22/LeetCode/tree/master/0005-longest-palindromic-substring) |
+| [0014-longest-common-prefix](https://github.com/parth-ghelani22/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0044-wildcard-matching](https://github.com/parth-ghelani22/LeetCode/tree/master/0044-wildcard-matching) |
 | [0058-length-of-last-word](https://github.com/parth-ghelani22/LeetCode/tree/master/0058-length-of-last-word) |
 | [0071-simplify-path](https://github.com/parth-ghelani22/LeetCode/tree/master/0071-simplify-path) |
@@ -149,4 +151,8 @@
 |  |
 | ------- |
 | [0458-poor-pigs](https://github.com/parth-ghelani22/LeetCode/tree/master/0458-poor-pigs) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/parth-ghelani22/LeetCode/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
