@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/parth-ghelani22/LeetCode/tree/master/0007-reverse-integer) |
+| [0013-roman-to-integer](https://github.com/parth-ghelani22/LeetCode/tree/master/0013-roman-to-integer) |
 | [0069-sqrtx](https://github.com/parth-ghelani22/LeetCode/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/parth-ghelani22/LeetCode/tree/master/0070-climbing-stairs) |
 | [0089-gray-code](https://github.com/parth-ghelani22/LeetCode/tree/master/0089-gray-code) |
@@ -46,6 +47,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/parth-ghelani22/LeetCode/tree/master/0001-two-sum) |
+| [0013-roman-to-integer](https://github.com/parth-ghelani22/LeetCode/tree/master/0013-roman-to-integer) |
 | [0041-first-missing-positive](https://github.com/parth-ghelani22/LeetCode/tree/master/0041-first-missing-positive) |
 | [0128-longest-consecutive-sequence](https://github.com/parth-ghelani22/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 ## Binary Search
@@ -58,6 +60,7 @@
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/parth-ghelani22/LeetCode/tree/master/0005-longest-palindromic-substring) |
+| [0013-roman-to-integer](https://github.com/parth-ghelani22/LeetCode/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/parth-ghelani22/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0044-wildcard-matching](https://github.com/parth-ghelani22/LeetCode/tree/master/0044-wildcard-matching) |
 | [0058-length-of-last-word](https://github.com/parth-ghelani22/LeetCode/tree/master/0058-length-of-last-word) |
