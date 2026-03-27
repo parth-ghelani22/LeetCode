@@ -66,6 +66,7 @@
 | [0005-longest-palindromic-substring](https://github.com/parth-ghelani22/LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0013-roman-to-integer](https://github.com/parth-ghelani22/LeetCode/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/parth-ghelani22/LeetCode/tree/master/0014-longest-common-prefix) |
+| [0020-valid-parentheses](https://github.com/parth-ghelani22/LeetCode/tree/master/0020-valid-parentheses) |
 | [0044-wildcard-matching](https://github.com/parth-ghelani22/LeetCode/tree/master/0044-wildcard-matching) |
 | [0058-length-of-last-word](https://github.com/parth-ghelani22/LeetCode/tree/master/0058-length-of-last-word) |
 | [0071-simplify-path](https://github.com/parth-ghelani22/LeetCode/tree/master/0071-simplify-path) |
@@ -74,6 +75,7 @@
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/parth-ghelani22/LeetCode/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/parth-ghelani22/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0071-simplify-path](https://github.com/parth-ghelani22/LeetCode/tree/master/0071-simplify-path) |
 | [0084-largest-rectangle-in-histogram](https://github.com/parth-ghelani22/LeetCode/tree/master/0084-largest-rectangle-in-histogram) |
