@@ -13,6 +13,7 @@
 | [0044-wildcard-matching](https://github.com/parth-ghelani22/LeetCode/tree/master/0044-wildcard-matching) |
 | [0053-maximum-subarray](https://github.com/parth-ghelani22/LeetCode/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/parth-ghelani22/LeetCode/tree/master/0070-climbing-stairs) |
+| [0091-decode-ways](https://github.com/parth-ghelani22/LeetCode/tree/master/0091-decode-ways) |
 | [0120-triangle](https://github.com/parth-ghelani22/LeetCode/tree/master/0120-triangle) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/parth-ghelani22/LeetCode/tree/master/0124-binary-tree-maximum-path-sum) |
 ## Memoization
@@ -47,6 +48,7 @@
 | ------- |
 | [0044-wildcard-matching](https://github.com/parth-ghelani22/LeetCode/tree/master/0044-wildcard-matching) |
 | [0071-simplify-path](https://github.com/parth-ghelani22/LeetCode/tree/master/0071-simplify-path) |
+| [0091-decode-ways](https://github.com/parth-ghelani22/LeetCode/tree/master/0091-decode-ways) |
 | [0316-remove-duplicate-letters](https://github.com/parth-ghelani22/LeetCode/tree/master/0316-remove-duplicate-letters) |
 ## Stack
 |  |
