@@ -27,6 +27,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/parth-ghelani22/LeetCode/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/parth-ghelani22/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0041-first-missing-positive](https://github.com/parth-ghelani22/LeetCode/tree/master/0041-first-missing-positive) |
 | [0042-trapping-rain-water](https://github.com/parth-ghelani22/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/parth-ghelani22/LeetCode/tree/master/0053-maximum-subarray) |
 | [0084-largest-rectangle-in-histogram](https://github.com/parth-ghelani22/LeetCode/tree/master/0084-largest-rectangle-in-histogram) |
@@ -40,6 +41,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/parth-ghelani22/LeetCode/tree/master/0001-two-sum) |
+| [0041-first-missing-positive](https://github.com/parth-ghelani22/LeetCode/tree/master/0041-first-missing-positive) |
 | [0128-longest-consecutive-sequence](https://github.com/parth-ghelani22/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 ## Binary Search
 |  |
