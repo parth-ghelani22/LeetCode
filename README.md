@@ -17,6 +17,7 @@
 | [0042-trapping-rain-water](https://github.com/parth-ghelani22/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0044-wildcard-matching](https://github.com/parth-ghelani22/LeetCode/tree/master/0044-wildcard-matching) |
 | [0053-maximum-subarray](https://github.com/parth-ghelani22/LeetCode/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/parth-ghelani22/LeetCode/tree/master/0055-jump-game) |
 | [0070-climbing-stairs](https://github.com/parth-ghelani22/LeetCode/tree/master/0070-climbing-stairs) |
 | [0091-decode-ways](https://github.com/parth-ghelani22/LeetCode/tree/master/0091-decode-ways) |
 | [0120-triangle](https://github.com/parth-ghelani22/LeetCode/tree/master/0120-triangle) |
@@ -36,6 +37,7 @@
 | [0041-first-missing-positive](https://github.com/parth-ghelani22/LeetCode/tree/master/0041-first-missing-positive) |
 | [0042-trapping-rain-water](https://github.com/parth-ghelani22/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/parth-ghelani22/LeetCode/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/parth-ghelani22/LeetCode/tree/master/0055-jump-game) |
 | [0084-largest-rectangle-in-histogram](https://github.com/parth-ghelani22/LeetCode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0090-subsets-ii](https://github.com/parth-ghelani22/LeetCode/tree/master/0090-subsets-ii) |
 | [0120-triangle](https://github.com/parth-ghelani22/LeetCode/tree/master/0120-triangle) |
@@ -120,6 +122,7 @@
 |  |
 | ------- |
 | [0044-wildcard-matching](https://github.com/parth-ghelani22/LeetCode/tree/master/0044-wildcard-matching) |
+| [0055-jump-game](https://github.com/parth-ghelani22/LeetCode/tree/master/0055-jump-game) |
 | [0316-remove-duplicate-letters](https://github.com/parth-ghelani22/LeetCode/tree/master/0316-remove-duplicate-letters) |
 ## Recursion
 |  |
