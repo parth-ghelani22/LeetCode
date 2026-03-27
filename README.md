@@ -27,6 +27,7 @@
 | [0053-maximum-subarray](https://github.com/parth-ghelani22/LeetCode/tree/master/0053-maximum-subarray) |
 | [0084-largest-rectangle-in-histogram](https://github.com/parth-ghelani22/LeetCode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0128-longest-consecutive-sequence](https://github.com/parth-ghelani22/LeetCode/tree/master/0128-longest-consecutive-sequence) |
+| [0137-single-number-ii](https://github.com/parth-ghelani22/LeetCode/tree/master/0137-single-number-ii) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/parth-ghelani22/LeetCode/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 ## Hash Table
 |  |
@@ -104,4 +105,8 @@
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/parth-ghelani22/LeetCode/tree/master/0206-reverse-linked-list) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0137-single-number-ii](https://github.com/parth-ghelani22/LeetCode/tree/master/0137-single-number-ii) |
 <!---LeetCode Topics End-->
