@@ -43,6 +43,7 @@
 | [0128-longest-consecutive-sequence](https://github.com/parth-ghelani22/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0137-single-number-ii](https://github.com/parth-ghelani22/LeetCode/tree/master/0137-single-number-ii) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/parth-ghelani22/LeetCode/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/parth-ghelani22/LeetCode/tree/master/0442-find-all-duplicates-in-an-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -50,6 +51,7 @@
 | [0013-roman-to-integer](https://github.com/parth-ghelani22/LeetCode/tree/master/0013-roman-to-integer) |
 | [0041-first-missing-positive](https://github.com/parth-ghelani22/LeetCode/tree/master/0041-first-missing-positive) |
 | [0128-longest-consecutive-sequence](https://github.com/parth-ghelani22/LeetCode/tree/master/0128-longest-consecutive-sequence) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/parth-ghelani22/LeetCode/tree/master/0442-find-all-duplicates-in-an-array) |
 ## Binary Search
 |  |
 | ------- |
@@ -158,4 +160,8 @@
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/parth-ghelani22/LeetCode/tree/master/0014-longest-common-prefix) |
+## Sorting
+|  |
+| ------- |
+| [0442-find-all-duplicates-in-an-array](https://github.com/parth-ghelani22/LeetCode/tree/master/0442-find-all-duplicates-in-an-array) |
 <!---LeetCode Topics End-->
