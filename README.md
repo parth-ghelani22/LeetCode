@@ -4,6 +4,7 @@
 ## Math
 |  |
 | ------- |
+| [0007-reverse-integer](https://github.com/parth-ghelani22/LeetCode/tree/master/0007-reverse-integer) |
 | [0069-sqrtx](https://github.com/parth-ghelani22/LeetCode/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/parth-ghelani22/LeetCode/tree/master/0070-climbing-stairs) |
 | [0089-gray-code](https://github.com/parth-ghelani22/LeetCode/tree/master/0089-gray-code) |
