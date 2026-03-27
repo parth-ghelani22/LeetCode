@@ -7,6 +7,7 @@
 | [0069-sqrtx](https://github.com/parth-ghelani22/LeetCode/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/parth-ghelani22/LeetCode/tree/master/0070-climbing-stairs) |
 | [0089-gray-code](https://github.com/parth-ghelani22/LeetCode/tree/master/0089-gray-code) |
+| [0458-poor-pigs](https://github.com/parth-ghelani22/LeetCode/tree/master/0458-poor-pigs) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -18,6 +19,7 @@
 | [0120-triangle](https://github.com/parth-ghelani22/LeetCode/tree/master/0120-triangle) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/parth-ghelani22/LeetCode/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/parth-ghelani22/LeetCode/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0458-poor-pigs](https://github.com/parth-ghelani22/LeetCode/tree/master/0458-poor-pigs) |
 ## Memoization
 |  |
 | ------- |
@@ -138,4 +140,8 @@
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/parth-ghelani22/LeetCode/tree/master/0023-merge-k-sorted-lists) |
+## Combinatorics
+|  |
+| ------- |
+| [0458-poor-pigs](https://github.com/parth-ghelani22/LeetCode/tree/master/0458-poor-pigs) |
 <!---LeetCode Topics End-->
