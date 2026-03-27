@@ -28,6 +28,7 @@
 | [0042-trapping-rain-water](https://github.com/parth-ghelani22/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/parth-ghelani22/LeetCode/tree/master/0053-maximum-subarray) |
 | [0084-largest-rectangle-in-histogram](https://github.com/parth-ghelani22/LeetCode/tree/master/0084-largest-rectangle-in-histogram) |
+| [0090-subsets-ii](https://github.com/parth-ghelani22/LeetCode/tree/master/0090-subsets-ii) |
 | [0120-triangle](https://github.com/parth-ghelani22/LeetCode/tree/master/0120-triangle) |
 | [0128-longest-consecutive-sequence](https://github.com/parth-ghelani22/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0137-single-number-ii](https://github.com/parth-ghelani22/LeetCode/tree/master/0137-single-number-ii) |
@@ -112,5 +113,10 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0090-subsets-ii](https://github.com/parth-ghelani22/LeetCode/tree/master/0090-subsets-ii) |
 | [0137-single-number-ii](https://github.com/parth-ghelani22/LeetCode/tree/master/0137-single-number-ii) |
+## Backtracking
+|  |
+| ------- |
+| [0090-subsets-ii](https://github.com/parth-ghelani22/LeetCode/tree/master/0090-subsets-ii) |
 <!---LeetCode Topics End-->
