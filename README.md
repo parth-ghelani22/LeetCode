@@ -67,6 +67,7 @@
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/parth-ghelani22/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0023-merge-k-sorted-lists](https://github.com/parth-ghelani22/LeetCode/tree/master/0023-merge-k-sorted-lists) |
 | [0053-maximum-subarray](https://github.com/parth-ghelani22/LeetCode/tree/master/0053-maximum-subarray) |
 ## Two Pointers
 |  |
@@ -115,6 +116,7 @@
 ## Linked List
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/parth-ghelani22/LeetCode/tree/master/0023-merge-k-sorted-lists) |
 | [0025-reverse-nodes-in-k-group](https://github.com/parth-ghelani22/LeetCode/tree/master/0025-reverse-nodes-in-k-group) |
 | [0206-reverse-linked-list](https://github.com/parth-ghelani22/LeetCode/tree/master/0206-reverse-linked-list) |
 ## Bit Manipulation
@@ -128,4 +130,12 @@
 | ------- |
 | [0089-gray-code](https://github.com/parth-ghelani22/LeetCode/tree/master/0089-gray-code) |
 | [0090-subsets-ii](https://github.com/parth-ghelani22/LeetCode/tree/master/0090-subsets-ii) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/parth-ghelani22/LeetCode/tree/master/0023-merge-k-sorted-lists) |
+## Merge Sort
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/parth-ghelani22/LeetCode/tree/master/0023-merge-k-sorted-lists) |
 <!---LeetCode Topics End-->
