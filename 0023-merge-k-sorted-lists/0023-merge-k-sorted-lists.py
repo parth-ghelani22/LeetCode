@@ -6,7 +6,6 @@ class Solution(object):
                 arr.append(l.val)
                 l = l.next
         arr.sort()
-
         dummy = ListNode(0)
         current = dummy
 
