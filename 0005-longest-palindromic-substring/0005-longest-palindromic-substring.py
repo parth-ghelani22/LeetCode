@@ -22,5 +22,4 @@ class Solution(object):
                     if dp[i][j] and length > max_length:
                         start = i
                         max_length = length
-
         return s[start:start + max_length]
